@@ -1,1 +1,1 @@
-This is t realtime chat application from tomdoestech in youtube.
+This is a MERN stack application. Taken from the free course of javascriptmastery in youtube.
